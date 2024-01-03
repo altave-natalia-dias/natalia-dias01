@@ -6,7 +6,7 @@
 - 📫 Interested? Contact me
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/natalia-dias01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalia-dias01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-dias01&layout=compact&langs_count=16&theme=dark"/>
 </div>
@@ -20,5 +20,3 @@
   <img height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
   <img height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" />
 </div>
-
-  ##
