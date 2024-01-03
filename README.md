@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm currently working with Devops and starting personal projects in the area of Cyber Security.
-- 🌱 I'm currently learning... Offensive Security as Penetration testing & Ethical Hacking
+- 🌱 I'm currently learning Offensive Security as Penetration testing & Ethical Hacking
 - 👯 I'm looking to collaborate on Devops Automations
 - 🤔 I'm looking for help with Cybersecurity
 - 📫 Interested? Contact me
