@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I'm currently working with Devops and starting personal projects in the area of Cyber Security.
+- 🔭 I'm currently working with Devops and starting personal projects in the area of CyberSecurity (Red Team)
 - 🌱 I'm currently learning Offensive Security as Penetration testing & Ethical Hacking
 - 👯 I'm looking to collaborate on Devops Automations
-- 🤔 I'm looking for help with Cybersecurity
+- 🤔 I'm looking for help with CyberSecurity for the Red Team
 - 📫 Interested? Contact me
 
 <div>
